@@ -25,6 +25,7 @@
                     <input type="text" class="form-control" v-model="name" @keyup.13="add">
                 </label>
                 
+
                 <label>
                     <input type="button" value="添加" class="btn btn-primary" @click="add()">
                 </label>
